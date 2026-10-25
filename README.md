@@ -3,7 +3,7 @@ trabalho sobre o GitHub e sua relação com o pipeline de feedback da Aula 2, ab
 
 ## 1. Introdução
 
-O GitHub é uma plataforma utilizada para armazenar projetos, organizar arquivos e acompanhar as alterações realizadas no código-fonte. Ele também facilita o trabalho em equipe, permitindo que os desenvolvedores compartilhem seus projetos e acompanhem o histórico de modificações.
+O GitHub é uma plataforma utilizada para armazenar projetos, organizar arquivos e acompanhar as alterações realizadas no código-fonte. Ele também facilita o trabalho em equipe, permitindo que os desenvolvedores compartilhem seus projetos e acompanhem o histórico de modificações. Além disso, o GitHub facilita o trabalho em equipe, pois permite que diferentes desenvolvedores contribuam para um mesmo projeto, compartilhem códigos e revisem as alterações antes de incorporá-las ao projeto principal.
 
 ## 2. O que é um Pipeline de Feedback?
 
